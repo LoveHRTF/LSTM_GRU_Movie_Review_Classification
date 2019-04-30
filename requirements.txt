@@ -1,0 +1,6 @@
+pandas
+numpy
+sklearn
+keras
+
+# tensorflow-gpu for cuda support
