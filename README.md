@@ -1,6 +1,12 @@
 # LSTM_GRU_Movie_Review_Classification
 Provides script for train LSTM or GRU model for sentence classification.
 
+## Training Data
+The entry for training dataset was a sentence of movie review on IMDB, and value was either 0 representing a negative review, or 1 for podsitive review. 
+
+## Testing Data
+The program provides a function predice(), that takes a list of sentence for review, and the movie name. It returns a turple contains the movie name, and a list of float rating from 0 to 1 for each sentence in the list of sentence.
+
 
 # Usage
 ## Train
