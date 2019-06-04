@@ -1,5 +1,8 @@
 # LSTM GRU Movie Review Classification
 Provides script for train LSTM or GRU model for sentence classification.
+This github repository serives as a part of the project for movie box office prediction
+The project can be found in the link below:
+https://liamju.github.io/csci1951a.github.io
 
 ## Training Data
 The entry for training dataset was a sentence of movie review on IMDB, and value was either 0 representing a negative review, or 1 for podsitive review. 
