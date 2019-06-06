@@ -20,7 +20,7 @@ $ python nlp_model.py
 $ python rate_movie.py
 
 ### Test on New Youk Times article on Avangers: EndGame
-$ python rete_endgame.py
+$ python rate_endgame.py
 
 ## Dependency
 tensorflow-gpu was recommended
